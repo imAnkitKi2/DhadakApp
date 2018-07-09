@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dhadak Movie</string>
+
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <!-- AdMob ad unit LIVE -->
+    <string name="banner_home_footer">ca-app-pub-3252068940864081/1959724795</string>
+    <string name="interstitial_full_screen">ca-app-pub-3252068940864081/1576581418</string>
+    <string name="search">Search</string>
+    <string name="search_movies">Search movies...</string>
+
+    <!-- AdMob ad unit Testing -->
+    <!--<string name="banner_home_footer">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="interstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>-->
+</resources>

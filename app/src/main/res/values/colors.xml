@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e2413e</color>
+    <color name="colorPrimaryDark">#882725</color>
+    <color name="colorAccent">#882725</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="coral">#FF7F50</color>
+    <color name="Tomato">#FF6347</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="peru">#CD853F</color>
+    <color name="khakhi">#F0E68C</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="shadow">#555555</color>
+
+    <color name="gray">#808080</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="dimgray">#696969</color>
+    <color name="white">#ffffff</color>
+
+    <!--<color name="colorPrimary">#202020</color>-->
+    <!--<color name="colorPrimaryDark">@color/dimgray</color>-->
+    <!--<color name="colorAccent">#ffffff</color>-->
+</resources>
